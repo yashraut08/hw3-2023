@@ -50,6 +50,7 @@ nav a.current{
     text-decoration-style: wavy;
     text-underline-offset: 10px;
     color: black;
+    text-transform: uppercase;
 
 }
 
